@@ -167,3 +167,4 @@ python evaluate_ai.py
 
 ## ⚖️ Disclaimer
 *This project is an experimental academic prototype for classroom attendance and focus analytics. Eye-closure estimations are algorithmic proxies and do not constitute medical or diagnostic evaluations of fatigue.*
+
